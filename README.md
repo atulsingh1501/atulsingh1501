@@ -38,11 +38,10 @@ const atul = {
 
 | Project | What it does | Stack | Links |
 |---------|-------------|-------|-------|
-| 🗑️ **Waste Management** | Real-time IoT waste bin tracker with route optimization | React, TypeScript, Node, Express | [GitHub](https://github.com/atulsingh1501/waste_management_system) |
+| 💊 **Digital RX** | Clinic management — doctors send prescriptions to patients via WhatsApp, zero paperwork | React, Node, Baileys, Express | [GitHub](https://github.com/atulsingh1501/digitalRX) • [Live](https://digital-rx-ten.vercel.app/) |
 | ✈️ **TripSmart AI** | AI travel planner with budget allocation & group planning | React, Redux, Node, TypeScript | [GitHub](https://github.com/atulsingh1501/TripSmart_Deploy) • [Live](https://trip-smart-tau.vercel.app/) |
-| 🎵 **Web Harmonium** | Browser-based harmonium instrument | HTML, CSS, JavaScript | [GitHub](https://github.com/atulsingh1501/Web-Harmonium) |
-| 💬 **WhatsApp Chat Analysis** | Analyze and visualize WhatsApp chat data | Python | [GitHub](https://github.com/atulsingh1501/Whatsapp-chat-Analysis) |
-| 💡 **KavachPay** | Work-Proof Protocol for parametric insurance — Guidewire DEVTrails Phase 3 | TypeScript | [GitHub](https://github.com/atulsingh1501/DEV_TRAILS_HACKATHON---KavachPay) |
+| 📊 **PrepTrack** | MERN placement prep tracker — LeetCode stats, Kanban board, GitHub-style heatmap | React, MongoDB, Express, Zustand | [GitHub](https://github.com/atulsingh1501/PrepTrack) |
+| 🗑️ **Waste Management** | Real-time IoT waste bin tracker with route optimization | React, TypeScript, Node, Express | [GitHub](https://github.com/atulsingh1501/waste_management_system) |
 
 ---
 
@@ -52,7 +51,6 @@ const atul = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -72,9 +70,15 @@ const atul = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulsingh1501&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh1501&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atulsingh1501&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh1501&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atulsingh1501&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+> ⚠️ Stats not loading? The public instance can be rate-limited. For a permanent fix, [self-host github-readme-stats on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (free, 5 min setup).
 
 ---
 
