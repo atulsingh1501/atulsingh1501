@@ -70,15 +70,18 @@ const atul = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulsingh1501&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh1501&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" />
+  <img src="https://streak-stats.demolab.com?user=atulsingh1501&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atulsingh1501&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atulsingh1501&theme=tokyonight" width="95%" />
 </p>
 
-> ⚠️ Stats not loading? The public instance can be rate-limited. For a permanent fix, [self-host github-readme-stats on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (free, 5 min setup).
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atulsingh1501&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atulsingh1501&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atulsingh1501&theme=tokyonight" width="32%" />
+</p>
 
 ---
 
