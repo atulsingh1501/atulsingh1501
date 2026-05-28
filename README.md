@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://atulyafolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;Vibe+Coder+%2B+Prompt+Engineer+%F0%9F%A4%96;Learning+DSA+in+Java+%E2%98%95;Building+Real+Stuff+that+Actually+Works+%F0%9F%94%A5;SIH+2024+%7C+Hackathon+Builder+%F0%9F%8F%86" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;Vibe+Coder+%2B+Prompt+Engineer+%F0%9F%A4%96;Learning+DSA+in+Java+%E2%98%95;Building+Real+Stuff+that+Actually+Works+%F0%9F%94%A5;SIH+2024+%7C+Hackathon+Builder+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +21,6 @@
 ```javascript
 const atul = {
   stack:          "MERN (MongoDB, Express, React, Node.js)",
-  superpower:     ["Vibe Coding 🎯", "Prompt Engineering 🤖"],
   currentlyOn:    "DSA grind in Java ☕",
   location:       "Vadodara, Gujarat 🇮🇳",
   achievements:   ["SIH 2024 🏆", "XR Creator Hackathon", "Guidewire DEVTrails Phase 3"],
@@ -38,10 +35,10 @@ const atul = {
 
 | Project | What it does | Stack | Links |
 |---------|-------------|-------|-------|
+| 🏪 **SthaniyaVendor** | Hyperlocal vendor portal — helps local shop owners digitize their business with AI-powered voice & image inventory, UPI QR billing, barcode scanning & offline-first buyer discovery | React Native, Expo, TypeScript, FastAPI, PostgreSQL, TensorFlow.js, Gemini AI | [GitHub](https://github.com/atulsingh1501/SthaniyaVendor) |
 | 💊 **Digital RX** | Clinic management — doctors send prescriptions to patients via WhatsApp, zero paperwork | React, Node, Baileys, Express | [GitHub](https://github.com/atulsingh1501/digitalRX) • [Live](https://digital-rx-ten.vercel.app/) |
 | ✈️ **TripSmart AI** | AI travel planner with budget allocation & group planning | React, Redux, Node, TypeScript | [GitHub](https://github.com/atulsingh1501/TripSmart_Deploy) • [Live](https://trip-smart-tau.vercel.app/) |
 | 📊 **PrepTrack** | MERN placement prep tracker — LeetCode stats, Kanban board, GitHub-style heatmap | React, MongoDB, Express, Zustand | [GitHub](https://github.com/atulsingh1501/PrepTrack) |
-| 🗑️ **Waste Management** | Real-time IoT waste bin tracker with route optimization | React, TypeScript, Node, Express | [GitHub](https://github.com/atulsingh1501/waste_management_system) |
 
 ---
 
@@ -70,7 +67,8 @@ const atul = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atulsingh1501&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atulsingh1501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh1501&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </p>
 
 <p align="center">
