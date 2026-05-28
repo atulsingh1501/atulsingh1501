@@ -67,18 +67,18 @@ const atul = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulsingh1501&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh1501&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atulsingh1501&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh1501&layout=compact&theme=radical&hide_border=true&langs_count=8" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulsingh1501&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulsingh1501&bg_color=141321&color=fe428e&line=fe428e&point=ffd700&area=true&hide_border=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atulsingh1501&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atulsingh1501&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atulsingh1501&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atulsingh1501&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atulsingh1501&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atulsingh1501&theme=radical" width="32%" />
 </p>
 
 ---
