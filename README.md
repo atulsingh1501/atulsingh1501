@@ -1,108 +1,41 @@
-<h1 align="center">
-  Hey, I'm Atul Singh 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-</h1>
+# Hey, I'm Atul Singh 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%A4%96;Learning+DSA+in+Java+%E2%98%95;Building+Real+Stuff+that+Actually+Works+%F0%9F%94%A5;SIH+2024+%7C+Hackathon+Builder+%F0%9F%8F%86" alt="Typing SVG" />
-</p>
+## About me
 
-<p align="center">
-  <a href="https://atulyafolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-atulyafolio.netlify.app-00d9ff?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/atul-singh-20y/"><img src="https://img.shields.io/badge/LinkedIn-Atul%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/0001_logic"><img src="https://img.shields.io/badge/Instagram-0001__logic-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:atulsingh05540@gmail.com"><img src="https://img.shields.io/badge/Gmail-atulsingh05540-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- I build full-stack products end-to-end — from idea to deployment. MERN is my home base, but I reach for whatever the project needs.
+- Currently on a DSA grind in Java. I believe strong fundamentals make you a better builder, not just a better interviewer.
+- I've shipped apps that actually work in the real world — not just demos. If it doesn't solve a real problem, I'm not interested.
+- When I'm not coding, I'm sketching — drawings and doodles that say something. Find them at [@0001_logic](https://www.instagram.com/0001_logic).
 
 ---
 
-## 🧑‍💻 Who Am I?
+## Projects
 
-```javascript
-const atul = {
-  stack:          "MERN (MongoDB, Express, React, Node.js)",
-  currentlyOn:    "DSA grind in Java ☕",
-  location:       "Vadodara, Gujarat 🇮🇳",
-  achievements:   ["SIH 2024 🏆", "XR Creator Hackathon", "Guidewire DEVTrails Phase 3"],
-  sideQuest:      "Posting sketch art with meaning @0001_logic 🎨",
-  funFact:        "I build entire apps with prompts & make them actually work 😎"
-};
-```
+**[SthaniyaVendor](https://github.com/atulsingh1501/SthaniyaVendor)** — Hyperlocal vendor platform that helps local shop owners go digital. AI-powered voice & image inventory, UPI QR billing, barcode scanning, and offline-first discovery. Stack: React Native, Expo, TypeScript, FastAPI, PostgreSQL, TensorFlow.js, Gemini AI.
+
+**[Digital RX](https://github.com/atulsingh1501/digitalRX)** — Clinic management tool where doctors send prescriptions to patients directly over WhatsApp. Zero paperwork. Stack: React, Node.js, Baileys, Express. · [Live](https://digital-rx-ten.vercel.app/)
+
+**[TripSmart AI](https://github.com/atulsingh1501/TripSmart_Deploy)** — AI travel planner with smart budget allocation and group trip coordination. Stack: React, Redux, Node.js, TypeScript. · [Live](https://trip-smart-tau.vercel.app/)
+
+**[PrepTrack](https://github.com/atulsingh1501/PrepTrack)** — MERN-based placement prep tracker with LeetCode stats, a Kanban board, and a GitHub-style activity heatmap. Stack: React, MongoDB, Express, Zustand.
 
 ---
 
-## 🚀 Featured Projects
+## Tech
 
-| Project | What it does | Stack | Links |
-|---------|-------------|-------|-------|
-| 🏪 **SthaniyaVendor** | Hyperlocal vendor portal — helps local shop owners digitize their business with AI-powered voice & image inventory, UPI QR billing, barcode scanning & offline-first buyer discovery | React Native, Expo, TypeScript, FastAPI, PostgreSQL, TensorFlow.js, Gemini AI | [GitHub](https://github.com/atulsingh1501/SthaniyaVendor) |
-| 💊 **Digital RX** | Clinic management — doctors send prescriptions to patients via WhatsApp, zero paperwork | React, Node, Baileys, Express | [GitHub](https://github.com/atulsingh1501/digitalRX) • [Live](https://digital-rx-ten.vercel.app/) |
-| ✈️ **TripSmart AI** | AI travel planner with budget allocation & group planning | React, Redux, Node, TypeScript | [GitHub](https://github.com/atulsingh1501/TripSmart_Deploy) • [Live](https://trip-smart-tau.vercel.app/) |
-| 📊 **PrepTrack** | MERN placement prep tracker — LeetCode stats, Kanban board, GitHub-style heatmap | React, MongoDB, Express, Zustand | [GitHub](https://github.com/atulsingh1501/PrepTrack) |
+JavaScript · TypeScript · Java · C++ · React · Node.js · Express · MongoDB · React Native · Tailwind CSS · Three.js · Figma · Git
 
 ---
 
-## 🛠️ Tech Stack
+## Achievements
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+- **SIH 2024** — Selected via Vadodara Hackathon. Built an autonomous tactical drone system.
+- **XR Creator Hackathon** — Qualified Round 1 at WAVES 2025 (Ministry of I&B).
+- **Guidewire DEVTrails Phase 3** — Built KavachPay, a work-proof protocol for parametric insurance.
+- **Vadodara Hackathon 5.0** — Active participant at Parul University.
 
 ---
 
-## 📊 GitHub Stats
+## Links
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulsingh1501&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh1501&layout=compact&theme=radical&hide_border=true&langs_count=8" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulsingh1501&bg_color=141321&color=fe428e&line=fe428e&point=ffd700&area=true&hide_border=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atulsingh1501&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atulsingh1501&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atulsingh1501&theme=radical" width="32%" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 **SIH 2024** — Selected via Vadodara Hackathon, built an autonomous tactical drone
-- 🎨 **XR Creator Hackathon** — Qualified Round 1 at WAVES 2025 (Ministry of I&B)
-- 💡 **Guidewire DEVTrails** — Reached Phase 3 (Soar) with **KavachPay**, a Work-Proof Protocol for parametric insurance
-- 🏙️ **Vadodara Hackathon 5.0** — Active participant at Parul University
-
----
-
-## 🎨 Beyond Code
-
-> I sketch things that have meaning — drawings, doodles, visual ideas that say something.  
-> Check them out → **[@0001_logic](https://www.instagram.com/0001_logic)** on Instagram
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atulsingh1501&label=Profile+Views&color=00d9ff&style=flat" />
-</p>
-
-<p align="center">
-  <b>⭐ If any of my projects helped you, drop a star — it genuinely means a lot! ⭐</b>
-</p>
+[Portfolio](https://atulyafolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/atul-singh-20y/) · [Instagram](https://www.instagram.com/0001_logic) · [Gmail](mailto:atulsingh05540@gmail.com)
