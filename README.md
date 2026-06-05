@@ -38,4 +38,4 @@ JavaScript · TypeScript · Java · C++ · React · Node.js · Express · MongoD
 
 ## Links
 
-[Portfolio](https://atulyafolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/atul-singh-20y/) · [Instagram](https://www.instagram.com/0001_logic) · [Gmail](mailto:atulsingh05540@gmail.com)
+[Portfolio](atulya.me/) · [LinkedIn](https://www.linkedin.com/in/atul-singh-20y/) · [Instagram](https://www.instagram.com/0001_logic) · [Gmail](mailto:atulsingh05540@gmail.com)
