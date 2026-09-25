@@ -11,7 +11,6 @@
 
 ## Projects
 
-https://github.com/atulsingh1501/StockFlow-ERP
 **[StockFlow ERP](https://github.com/atulsingh1501/StockFlow-ERP)** — StockFlow ERP is a lightweight ERP + CRM system for a wholesale/distribution business. It manages customers, products, inventory, sales challans, invoices, and follow-up activities for internal teams such as Sales, Warehouse, and Accounts.
 
 **[SthaniyaVendor](https://github.com/atulsingh1501/SthaniyaVendor)** — Hyperlocal vendor platform that helps local shop owners go digital. AI-powered voice & image inventory, UPI QR billing, barcode scanning, and offline-first discovery. Stack: React Native, Expo, TypeScript, FastAPI, PostgreSQL, TensorFlow.js, Gemini AI.
